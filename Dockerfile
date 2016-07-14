@@ -1,3 +1,3 @@
-FROM centos/ruby-23-centos7
+FROM centos/python-27-centos7
 MAINTAINER David
 
