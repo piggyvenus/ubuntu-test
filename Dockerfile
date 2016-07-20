@@ -1,3 +1,3 @@
-FROM centos/python-27-centos7
+FROM ubuntu:14.04.3
 MAINTAINER David
 
